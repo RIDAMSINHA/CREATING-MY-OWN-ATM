@@ -68,7 +68,14 @@ http://localhost:3000
 
 Contributions are welcome! If you find any issues or want to add new features, feel free to submit a pull request.
 
+## Authors
+
+https://www.linkedin.com/in/ridam-sinha-188133210/
+
+RIDAM ADITYA SINHA
+
+ridamsinha20@gmail.com
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```

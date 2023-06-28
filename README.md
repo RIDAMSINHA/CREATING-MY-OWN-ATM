@@ -20,7 +20,7 @@ This project demonstrates the development of a simple ATM (Automated Teller Mach
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <(https://github.com/RIDAMSINHA/CREATING-MY-OWN-ATM.git)>
 ```
 
 2. Install the dependencies ( IF THE DEPENDENCIES DOES NOT INSTALL CORRECTLY THEN USE --force ):
